@@ -1,0 +1,172 @@
+--------------------------------------------------------------------------------
+[Jan 26, 2022, 3:11:02.1 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 26, 2022, 3:11:02.1 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 26, 2022, 3:11:33.0 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 26, 2022, 3:11:33.0 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 26, 2022, 3:11:50.8 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 26, 2022, 3:11:50.8 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 26, 2022, 3:12:10.9 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 26, 2022, 3:12:11.0 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 26, 2022, 3:12:35.3 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 26, 2022, 3:12:35.3 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 26, 2022, 3:13:43.5 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 26, 2022, 3:13:43.5 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 26, 2022, 3:19:15.4 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 26, 2022, 3:19:15.4 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 26, 2022, 3:20:52.7 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 26, 2022, 3:20:52.7 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 26, 2022, 3:20:52.7 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 26, 2022, 3:21:54.1 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 26, 2022, 3:21:54.1 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 26, 2022, 3:22:25.6 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 26, 2022, 3:22:25.6 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 26, 2022, 3:23:37.7 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 26, 2022, 3:23:37.7 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 26, 2022, 4:21:04.3 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 26, 2022, 4:21:06.1 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 26, 2022, 4:21:22.5 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 26, 2022, 4:22:10.1 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 26, 2022, 4:23:20.6 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 26, 2022, 4:38:56.9 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 26, 2022, 4:43:23.4 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 26, 2022, 5:00:53.8 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 26, 2022, 5:06:37.6 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 26, 2022, 5:06:37.6 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 26, 2022, 5:06:50.6 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 26, 2022, 5:06:50.6 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 26, 2022, 6:35:28.4 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 26, 2022, 6:37:49.7 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 26, 2022, 6:40:42.7 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 26, 2022, 6:40:42.7 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 26, 2022, 6:41:31.3 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 26, 2022, 6:52:11.2 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 26, 2022, 6:52:11.2 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 26, 2022, 6:53:45.2 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 26, 2022, 6:53:45.2 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 26, 2022, 6:56:37.5 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 26, 2022, 6:57:46.5 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 26, 2022, 6:59:00.6 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 26, 2022, 6:59:00.6 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 26, 2022, 7:02:17.9 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 26, 2022, 7:02:17.9 PM:ERROR:publisher.cc(774)] Publisher info not found
+--------------------------------------------------------------------------------
+[Jan 27, 2022, 10:40:12.3 PM:ERROR:bundle.cc(448)] Failed to delete creative ad notifications state
+[Jan 27, 2022, 10:40:12.3 PM:ERROR:bundle.cc(460)] Failed to delete creative inline content ads state
+[Jan 27, 2022, 10:40:12.3 PM:ERROR:bundle.cc(472)] Failed to delete creative new tab page ads state
+[Jan 27, 2022, 10:40:12.3 PM:ERROR:bundle.cc(484)] Failed to delete creative promoted content ads state
+[Jan 27, 2022, 10:40:12.3 PM:ERROR:bundle.cc(496)] Failed to delete campaigns state
+[Jan 27, 2022, 10:40:12.3 PM:ERROR:bundle.cc(508)] Failed to delete segments state
+[Jan 27, 2022, 10:40:12.3 PM:ERROR:bundle.cc(520)] Failed to delete creative ads state
+[Jan 27, 2022, 10:40:12.3 PM:ERROR:bundle.cc(532)] Failed to delete dayparts state
+[Jan 27, 2022, 10:40:12.3 PM:ERROR:bundle.cc(544)] Failed to delete geo targets state
+[Jan 27, 2022, 10:40:12.3 PM:ERROR:bundle.cc(558)] Failed to save creative ad notifications state
+[Jan 27, 2022, 10:40:12.3 PM:ERROR:bundle.cc(572)] Failed to save creative inline content ads state
+[Jan 27, 2022, 10:40:12.3 PM:ERROR:bundle.cc(586)] Failed to save creative new tab page ads state
+[Jan 27, 2022, 10:40:12.3 PM:ERROR:bundle.cc(612)] Failed to purge expired conversions
+--------------------------------------------------------------------------------
+[Jan 31, 2022, 5:24:30.1 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 31, 2022, 5:24:30.1 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 31, 2022, 5:35:29.8 PM:ERROR:creative_new_tab_page_ads_database_table.cc(523)] Failed to get creative new tab page ad
+--------------------------------------------------------------------------------
+[Jan 31, 2022, 6:05:34.0 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 31, 2022, 6:05:34.0 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 31, 2022, 6:13:14.6 PM:ERROR:creative_new_tab_page_ads_database_table.cc(523)] Failed to get creative new tab page ad
+--------------------------------------------------------------------------------
+[Jan 31, 2022, 7:02:46.0 PM:ERROR:creative_new_tab_page_ads_database_table.cc(523)] Failed to get creative new tab page ad
+[Jan 31, 2022, 7:13:06.1 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 31, 2022, 7:13:06.1 PM:ERROR:publisher.cc(774)] Publisher info not found
+--------------------------------------------------------------------------------
+[Jan 31, 2022, 7:18:38.1 PM:ERROR:creative_new_tab_page_ads_database_table.cc(523)] Failed to get creative new tab page ad
+[Jan 31, 2022, 7:24:52.4 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 31, 2022, 7:24:52.4 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 31, 2022, 7:38:42.0 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 31, 2022, 7:40:30.7 PM:ERROR:creative_new_tab_page_ads_database_table.cc(523)] Failed to get creative new tab page ad
+[Jan 31, 2022, 7:40:38.6 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 31, 2022, 7:40:38.6 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 31, 2022, 8:17:58.8 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 31, 2022, 8:17:58.8 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 31, 2022, 8:17:58.8 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 31, 2022, 8:24:31.8 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 31, 2022, 8:24:31.8 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 31, 2022, 8:30:56.5 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 31, 2022, 8:30:56.5 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 31, 2022, 8:32:44.9 PM:ERROR:publisher.cc(774)] Publisher info not found
+--------------------------------------------------------------------------------
+[Jan 31, 2022, 8:34:20.5 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 31, 2022, 8:34:20.5 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 31, 2022, 8:34:49.0 PM:ERROR:creative_new_tab_page_ads_database_table.cc(523)] Failed to get creative new tab page ad
+--------------------------------------------------------------------------------
+[Jan 31, 2022, 8:36:52.1 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 31, 2022, 8:38:42.4 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 31, 2022, 8:55:09.6 PM:ERROR:creative_new_tab_page_ads_database_table.cc(523)] Failed to get creative new tab page ad
+[Jan 31, 2022, 9:01:00.8 PM:ERROR:creative_new_tab_page_ads_database_table.cc(523)] Failed to get creative new tab page ad
+--------------------------------------------------------------------------------
+[Jan 31, 2022, 9:20:51.0 PM:ERROR:creative_new_tab_page_ads_database_table.cc(523)] Failed to get creative new tab page ad
+--------------------------------------------------------------------------------
+[Jan 31, 2022, 11:22:14.0 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 31, 2022, 11:22:14.0 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 31, 2022, 11:26:09.2 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 31, 2022, 11:26:09.2 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 31, 2022, 11:30:18.9 PM:ERROR:creative_new_tab_page_ads_database_table.cc(523)] Failed to get creative new tab page ad
+[Jan 31, 2022, 11:31:06.6 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 31, 2022, 11:38:21.3 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 31, 2022, 11:38:21.3 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Jan 31, 2022, 11:42:07.7 PM:ERROR:creative_new_tab_page_ads_database_table.cc(523)] Failed to get creative new tab page ad
+[Feb 01, 2022, 12:03:41.0 AM:ERROR:publisher.cc(774)] Publisher info not found
+[Feb 01, 2022, 12:03:41.0 AM:ERROR:publisher.cc(774)] Publisher info not found
+[Feb 01, 2022, 11:55:01.4 AM:ERROR:publisher.cc(774)] Publisher info not found
+[Feb 01, 2022, 11:55:01.4 AM:ERROR:publisher.cc(774)] Publisher info not found
+[Feb 01, 2022, 12:08:59.9 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Feb 01, 2022, 12:08:59.9 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Feb 01, 2022, 5:39:44.9 PM:ERROR:logging_util.cc(105)] Network error (net::ERR_INTERNET_DISCONNECTED)
+[Feb 01, 2022, 5:39:44.9 PM:ERROR:get_available.cc(69)] Unexpected HTTP status: -1
+[Feb 01, 2022, 5:40:40.2 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Feb 01, 2022, 5:40:40.2 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Feb 01, 2022, 5:47:53.3 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Feb 01, 2022, 5:47:53.3 PM:ERROR:publisher.cc(774)] Publisher info not found
+--------------------------------------------------------------------------------
+[Feb 01, 2022, 7:43:27.4 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Feb 01, 2022, 7:43:54.3 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Feb 01, 2022, 10:01:23.0 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Feb 01, 2022, 10:01:23.0 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Feb 01, 2022, 10:01:23.0 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Feb 01, 2022, 10:02:02.2 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Feb 01, 2022, 10:02:02.2 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Feb 01, 2022, 10:13:56.3 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Feb 01, 2022, 10:13:56.3 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Feb 01, 2022, 10:14:36.0 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Feb 01, 2022, 10:14:36.0 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Feb 01, 2022, 10:26:11.2 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Feb 01, 2022, 10:26:52.0 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Feb 01, 2022, 10:40:29.5 PM:ERROR:publisher.cc(845)] Failed to retrieve publisher info while updating media duration
+[Feb 01, 2022, 10:40:30.5 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Feb 01, 2022, 10:54:29.6 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Feb 01, 2022, 10:56:34.1 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Feb 02, 2022, 7:27:28.4 PM:ERROR:creative_new_tab_page_ads_database_table.cc(523)] Failed to get creative new tab page ad
+[Feb 02, 2022, 7:34:39.2 PM:ERROR:publisher.cc(470)] Publisher is null
+[Feb 03, 2022, 12:55:19.4 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Feb 03, 2022, 12:59:54.1 PM:ERROR:creative_new_tab_page_ads_database_table.cc(523)] Failed to get creative new tab page ad
+[Feb 03, 2022, 1:00:32.5 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Feb 03, 2022, 1:02:31.1 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Feb 03, 2022, 1:02:31.1 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Feb 03, 2022, 1:22:18.5 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Feb 03, 2022, 1:22:18.5 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Feb 03, 2022, 1:26:12.1 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Feb 03, 2022, 1:26:12.1 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Feb 03, 2022, 1:26:26.0 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Feb 03, 2022, 1:26:26.0 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Feb 03, 2022, 1:35:04.3 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Feb 03, 2022, 1:35:04.3 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Feb 03, 2022, 1:35:40.5 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Feb 03, 2022, 1:35:40.5 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Feb 03, 2022, 1:36:58.1 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Feb 03, 2022, 1:36:58.1 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Feb 03, 2022, 1:36:58.1 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Feb 03, 2022, 1:41:04.5 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Feb 03, 2022, 1:41:04.5 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Feb 03, 2022, 1:41:16.2 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Feb 03, 2022, 1:41:16.2 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Feb 03, 2022, 1:41:16.2 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Feb 03, 2022, 3:36:54.3 PM:ERROR:creative_new_tab_page_ads_database_table.cc(523)] Failed to get creative new tab page ad
+[Feb 03, 2022, 5:01:48.0 PM:ERROR:creative_new_tab_page_ads_database_table.cc(523)] Failed to get creative new tab page ad
+[Feb 03, 2022, 5:12:25.2 PM:ERROR:creative_new_tab_page_ads_database_table.cc(523)] Failed to get creative new tab page ad

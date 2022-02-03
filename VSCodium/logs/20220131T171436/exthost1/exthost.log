@@ -1,0 +1,34 @@
+[2022-01-31 17:14:40.083] [exthost] [info] Extension host with pid 2919 started
+[2022-01-31 17:14:40.128] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-01-31 17:14:40.132] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-01-31 17:14:40.139] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-01-31 17:14:40.170] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-01-31 17:14:40.205] [exthost] [info] Eager extensions activated
+[2022-01-31 17:14:40.267] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-31 17:14:40.279] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-31 17:14:40.284] [exthost] [info] ExtensionService#_doActivateExtension sndst00m.starfall-visual-studio-code, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-31 17:14:40.339] [exthost] [error] Activating extension sndst00m.starfall-visual-studio-code failed due to an error:
+[2022-01-31 17:14:40.339] [exthost] [error] SyntaxError: /home/xcr/.vscode-oss/extensions/sndst00m.starfall-visual-studio-code-0.5.0/themes/starfall-color-theme.json: Unexpected token } in JSON at position 56381
+	at parse (<anonymous>)
+	at Object.Module._extensions..json (internal/modules/cjs/loader.js:1122:22)
+	at Module.load (internal/modules/cjs/loader.js:935:32)
+	at Module._load (internal/modules/cjs/loader.js:776:14)
+	at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+	at Function.t._load (/usr/share/vscodium/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:114:32222)
+	at Function.p._load (/usr/share/vscodium/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:114:28887)
+	at Function.f._load (/usr/share/vscodium/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:104:61699)
+	at Module.require (internal/modules/cjs/loader.js:959:19)
+	at require (internal/modules/cjs/helpers.js:88:18)
+	at Function.r [as __$__nodeRequire] (/usr/share/vscodium/resources/app/out/vs/loader.js:5:101)
+	at v._loadCommonJSModule (/usr/share/vscodium/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:114:30297)
+	at v._doActivateExtension (/usr/share/vscodium/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:100:12958)
+	at v._activateExtension (/usr/share/vscodium/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:100:11931)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+	at async Promise.all (index 0)
+[2022-01-31 17:15:18.143] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-01-31 17:15:18.155] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-01-31 17:15:18.166] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+[2022-01-31 17:15:18.220] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+[2022-01-31 17:16:04.081] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: false, activationEvent: '*'
+[2022-01-31 17:18:00.205] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-01-31 17:18:00.221] [exthost] [info] Extension host with pid 2919 exiting with code 0

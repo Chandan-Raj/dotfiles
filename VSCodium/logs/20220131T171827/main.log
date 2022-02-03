@@ -1,0 +1,7 @@
+[2022-01-31 17:18:27.621] [main] [info] update#setState idle
+[2022-01-31 17:18:27.676] [main] [info] ExtensionHostStarterWorker created
+[2022-01-31 17:18:28.852] [main] [info] Starting extension host with pid 11343 (fork() took 9 ms).
+[2022-01-31 17:18:57.622] [main] [info] update#setState checking for updates
+[2022-01-31 17:18:58.045] [main] [info] update#setState idle
+[2022-01-31 17:44:23.327] [main] [info] Waiting for extension host with pid 11343 to exit.
+[2022-01-31 17:44:23.342] [main] [info] Extension host with pid 11343 exited with code: 0, signal: null.

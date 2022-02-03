@@ -1,0 +1,11 @@
+[2022-01-31 18:01:38.869] [exthost] [info] Extension host with pid 2125 started
+[2022-01-31 18:01:38.972] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-01-31 18:01:38.993] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-01-31 18:01:39.067] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+[2022-01-31 18:01:39.381] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-01-31 18:01:39.499] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-01-31 18:01:39.563] [exthost] [info] Eager extensions activated
+[2022-01-31 18:01:39.598] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-31 18:01:39.662] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-31 18:04:17.763] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-01-31 18:04:17.779] [exthost] [info] Extension host with pid 2125 exiting with code 0

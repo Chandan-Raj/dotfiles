@@ -1,0 +1,7 @@
+[2022-02-01 17:49:42.002] [main] [info] update#setState idle
+[2022-02-01 17:49:42.048] [main] [info] ExtensionHostStarterWorker created
+[2022-02-01 17:49:43.262] [main] [info] Starting extension host with pid 187071 (fork() took 19 ms).
+[2022-02-01 17:50:12.003] [main] [info] update#setState checking for updates
+[2022-02-01 17:50:12.468] [main] [info] update#setState idle
+[2022-02-01 18:07:21.622] [main] [info] Waiting for extension host with pid 187071 to exit.
+[2022-02-01 18:07:21.644] [main] [info] Extension host with pid 187071 exited with code: 0, signal: null.
